@@ -1,5 +1,9 @@
-#include <unistd.h>
-#include <stdio.h>
+#include "main.h"
+
+/**
+ * main - command
+ * return: 0
+ */
 
 int main(void)
 {
