@@ -2,10 +2,10 @@
 
 /**
  * main - command
- * return: 0
+ * Return: 0
  */
 
-int main(void)
+int main()
 {
 	printf("%i\n", getppid());
 	return (0);
